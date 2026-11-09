@@ -1,4 +1,4 @@
-# WBM Meu Negócio Fácil
+# WBM Meu Negocio Facil
 
 Aplicativo de gestão simplificada para pequenos negócios e estabelecimentos comerciais, desenvolvido para facilitar o controle das operações da loja, a organização financeira e o acompanhamento de solicitações de contratação.
 
